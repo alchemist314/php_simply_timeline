@@ -4,6 +4,6 @@ Simply PHP TimeLine
 
 Features:
 
-You can change style of line and spaces between nodes by the php variables.
+You can change style of the line and spaces between nodes by the php variables.
 Modify CSS file for you purpose like a column width, line and font color, 
 font size and e.t.c. 
